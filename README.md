@@ -12,7 +12,7 @@ Store your username and password in a `environment-keys.ts` file. I have added t
 Content in the file - 
 
 ```
-export appKeys = {
+export const appKeys = {
     'username': 'semskiosk',
     'passkey': '<add_password>'
 }
